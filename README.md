@@ -35,5 +35,5 @@ Ao finalizar a utilização do objeto de aprendizagem SORTING CARDS, espera-se q
 
 ## Link do Mapa Conceitual e Modelo Instrucional
 
-Mapa Conteitual: Está no CMAP-cloud <br>
+Mapa Conteitual: Está no CMAP-cloud (GRUPO 05) <br>
 Modelo instruicional: https://drive.google.com/file/d/1rK6eZGN7Ae7bJJo_zseXQDQ1geGbqQIw/view?usp=sharing
