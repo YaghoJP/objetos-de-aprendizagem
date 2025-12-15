@@ -34,7 +34,8 @@ Ao finalizar a utilização do objeto de aprendizagem SORTING CARDS, espera-se q
 - Estimular curiosidade e interesse pelos fundamentos de algoritmos e estruturas de dados.
 
 ## Mapa Conceitual:
-Mapa Conteitual: Está no CMAP-cloud (GRUPO 05) <br>
+Cmap Cloud: GRUPO 05
+![sorting_cards](https://github.com/user-attachments/assets/b55ca73b-90cc-415f-b13f-6b70db0d0075)
 
 ## Modelo Instrucional:
 ![modelo_instrucional_v3](https://github.com/user-attachments/assets/f96519fe-f5fe-48b0-809b-e222842332ed)
