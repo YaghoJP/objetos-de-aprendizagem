@@ -42,7 +42,7 @@ Cmap Cloud: GRUPO 05
 
 ## Plano de Aula:
 
-
+[Plano de Aula - DOCS](https://docs.google.com/document/d/1E6BmDTDiCDQlrFsge9S1m1dd7hBn-2zO20e9c18gNhU/edit?usp=sharing)
 
 ## Demonstração das cartas (Figma):
 Para o SORTING CARDS, é necessário usar cartas, imprima elas de forma colorida como esta sendo representado no link abaixo:
@@ -54,5 +54,5 @@ Para o SORTING CARDS, é necessário usar cartas, imprima elas de forma colorida
 [Video Aula - Drive](https://drive.google.com/file/d/15UMjwm_uy3EC_iitMqmA92Zx-79GiRJt/view?usp=sharing)
 
 ## Metadados:
-Arquivo de metadados do objeto de aprendizagem, contendo informações educacionais, técnicas e de autoria:
+Arquivo de metadados do objeto de aprendizagem, contendo informações educacionais, técnicas e de autoria:<br><br>
 [Metadados.json](./sorting-cards-metadata.json)
