@@ -55,3 +55,4 @@ Para o SORTING CARDS, é necessário usar cartas, imprima elas de forma colorida
 
 ## Metadados:
 
+[Metadados.json](./sorting-cards-metadata.json)
