@@ -54,5 +54,5 @@ Para o SORTING CARDS, é necessário usar cartas, imprima elas de forma colorida
 [Video Aula - Drive](https://drive.google.com/file/d/15UMjwm_uy3EC_iitMqmA92Zx-79GiRJt/view?usp=sharing)
 
 ## Metadados:
-
+Arquivo de metadados do objeto de aprendizagem, contendo informações educacionais, técnicas e de autoria:
 [Metadados.json](./sorting-cards-metadata.json)
