@@ -49,3 +49,9 @@ Para o SORTING CARDS, é necessário usar cartas, imprima elas de forma colorida
 
 [Demonstração das cartas - FIGMA](https://www.figma.com/design/6zD9GrNNVqHcr1z5ubEL2D/Sorting-Cards?node-id=0-1&m=dev&t=0Opz8PRwK5P73ig4-1)
 
+## Video Aula do SORTING CARDS:
+
+[Video Aula - Drive](https://drive.google.com/file/d/15UMjwm_uy3EC_iitMqmA92Zx-79GiRJt/view?usp=sharing)
+
+## Metadados:
+
