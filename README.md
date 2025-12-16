@@ -40,3 +40,12 @@ Cmap Cloud: GRUPO 05
 ## Modelo Instrucional:
 ![modelo_instrucional_v3](https://github.com/user-attachments/assets/f96519fe-f5fe-48b0-809b-e222842332ed)
 
+## Plano de Aula:
+
+
+
+## Demonstração das cartas (Figma):
+Para o SORTING CARDS, é necessário usar cartas, imprima elas de forma colorida como esta sendo representado no link abaixo:
+
+[Demonstração das cartas - FIGMA](https://www.figma.com/design/6zD9GrNNVqHcr1z5ubEL2D/Sorting-Cards?node-id=0-1&m=dev&t=0Opz8PRwK5P73ig4-1)
+
