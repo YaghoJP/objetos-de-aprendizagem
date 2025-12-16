@@ -1,0 +1,105 @@
+{
+  "general": {
+    "identifier": "SORTING-CARDS",
+    "title": "Sorting Cards: Jogo de Cartas para Ensino de Algoritmos de Ordenação",
+    "language": "pt-BR",
+    "description": "Sorting Cards é um jogo de cartas educativo no qual os jogadores organizam cartas numeradas seguindo diferentes algoritmos de ordenação. Cada rodada propõe um algoritmo específico, permitindo que conceitos de ordenação sejam aprendidos de forma prática, visual e divertida.",
+    "keywords": [
+      "Algoritmos de Ordenação",
+      "Pensamento Computacional",
+      "Lógica",
+      "Ciência da Computação",
+      "Jogos Educativos",
+      "Aprendizagem Ativa"
+    ],
+    "structure": "Linear",
+    "aggregationLevel": 2
+  },
+  "lifecycle": {
+    "version": "1.0",
+    "status": "Final",
+    "contribute": [
+      {
+        "role": "Author",
+        "entity": "Rafaela Tieri Iwamoto Ferreira",
+        "date": "2025-12-15"
+      },
+      {
+        "role": "Author",
+        "entity": "Yagho Neto",
+        "date": "2025-12-15"
+      }
+    ]
+  },
+  "technical": {
+    "location": "Repositório GitHub",
+    "requirements": {
+      "type": "Physical Resource",
+      "name": "Baralho Sorting Cards"
+    },
+    "installationRemarks": "Não requer instalação de software. As cartas devem ser imprimidas."
+  },
+  "educational": {
+    "interactivityType": "Active",
+    "learningResourceType": [
+      "Game",
+      "Activity",
+      "Simulation"
+    ],
+    "interactivityLevel": "High",
+    "semanticDensity": "Low",
+    "intendedEndUserRole": "Learner",
+    "context": "Basic Education / Secondary Education / Introductory Computing",
+    "typicalAgeRange": "10+",
+    "difficulty": "Easy to Medium",
+    "typicalLearningTime": "PT30M",
+    "description": "O jogo promove aprendizagem ativa por meio da manipulação física das cartas, facilitando a compreensão de algoritmos de ordenação como Bubble Sort, Selection Sort, Insertion Sort e Merge Sort.",
+    "language": "pt-BR"
+  },
+  "rights": {
+    "cost": "no",
+    "copyrightAndOtherRestrictions": "yes",
+    "description": "Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)"
+  },
+  "relation": {
+    "kind": "References",
+    "resource": {
+      "description": "Referenciais de Formação para Cursos de Computação – SBC (2017)"
+    }
+  },
+  "classification": {
+    "purpose": "Educational Objective",
+    "taxonPath": [
+      {
+        "source": "Taxonomia de Bloom",
+        "taxons": [
+          {
+            "id": "1",
+            "entry": "Lembrar e Compreender (Conceito de Ordenação)"
+          },
+          {
+            "id": "3",
+            "entry": "Aplicar (Execução de algoritmos de ordenação)"
+          },
+          {
+            "id": "4",
+            "entry": "Analisar (Comparação entre diferentes algoritmos)"
+          }
+        ]
+      },
+      {
+        "source": "SBC Competências 2017",
+        "taxons": [
+          {
+            "id": "C.1.5",
+            "entry": "Reconhecer a importância do pensamento computacional"
+          },
+          {
+            "id": "C.2.6",
+            "entry": "Compreensão de conceitos fundamentais da Computação"
+          }
+        ]
+      }
+    ]
+  }
+}
